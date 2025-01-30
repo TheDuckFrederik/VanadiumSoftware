@@ -1,1 +1,1 @@
-# Welcome to [https://theduckfrederik.github.io/VanadiumSoftware/](Vanadium Software).
+# Welcome to [Vanadium Software](https://theduckfrederik.github.io/VanadiumSoftware/).
